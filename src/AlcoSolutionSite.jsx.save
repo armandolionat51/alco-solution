@@ -51,8 +51,7 @@ function AlcoSolutionSite() {
 
         {/* Consultation */}
         <div className="grid md:grid-cols-2 gap-10 mb-16 items-center">
-          <img src="https://images.unsplash.com/photo-1581090700227-1e8a1a9f59b0" alt="consultation" className="rounded-xl shadow-xl" />
-          <div>
+<img src="https://images.pexels.com/photos/3184325/pexels-photo-3184325.jpeg" alt="consultation" className="rounded-xl shadow-xl" />          <div>
             <h3 className="text-2xl font-semibold mb-2">Consultation d'affaires</h3>
             <ul className="list-disc list-inside text-gray-700">
               <li>Création d'entreprise et planification stratégique</li>
